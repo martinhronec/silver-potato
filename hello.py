@@ -1,3 +1,5 @@
 if __name__ == "__main__":
-    print('Hello')
-    print('Goodbye')
+    print('MH:Hello')
+    print('Students: (silence)')
+    print('MH: Goodbye')
+    print(" Not-students/ bad habits: Don't leave me yet")
